@@ -1,6 +1,6 @@
 # E-commerce com Django
 
-Este é um projeto de e-commerce desenvolvido com Django, que oferece as seguintes funcionalidades:
+Este é um projeto de e-commerce que está sendo desenvolvido com Django, que oferece as seguintes funcionalidades:
 
 ## Funcionalidades Principais
 
